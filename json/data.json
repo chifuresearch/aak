@@ -1,0 +1,121 @@
+{
+    "data":[
+        {
+            "type":"TXT",
+            "title":"工具 與 方法",
+            "titleEN":"Tools & Methodology"
+        },
+        {
+            "type":"C",
+            "imgs":[
+                "json/img/tm00.png",
+                "json/img/tm01.png",
+                "json/img/tm02.png",
+                "json/img/tm03.png",
+                "json/img/tm04.png",
+                "json/img/tm05.png"
+                ]
+        },
+        {
+            "type":"TXT",
+            "title":"行為與情緒的空間組織",
+            "titleEN":"Composition from Behavior & Emotion "
+        },
+        {
+            "type":"L",
+            "name":"陳沁蕓",
+            "img":"json/img/Qin-Yun.png",
+            "topic":"動·思·共鳴",
+            "desc":"海龜保育特展の序章——加深觀者印象：</br>空間改變情緒，情緒影響姿態，姿態操縱空間。",
+            "nameEN":"Qin-Yun, Chen",
+            "topicEN":"InMotion",
+            "descEN":"Enhance the audience's impression in the prologue of the Sea Turtle Conservation Exhibition by altering the space, influencing emotions, and manipulating postures."
+        },
+        {
+            "type":"R",
+            "name":"陳欣佑",
+            "img":"json/img/Xin-You.png",
+            "topic":"基於交戰行為的場景設計",
+            "desc":"以作戰行為作為場景設計的切入點，先分析遊戲角色在場景中使用各種槍枝的行為，再平剖面設計對應場景物件，使場景更有利於特定槍枝作戰，達到交戰程度最大化。",
+            "nameEN":"Xin-You, Chen",
+            "topicEN":"A Scenario Based on Fire Combat",
+            "descEN":"To design a scene that maximizes engagement, this study begins with analyzing the behavior of game characters using various firearms. From there, design corresponding scene objects on a planar level that are conducive to specific firearm combat. By using combat behavior as the starting point for scene design, you can create a more immersive experience for players."
+        },
+        {
+            "type":"TXT",
+            "title":"基於角色與再現的空間構成",
+            "titleEN":"Characteristic & Representation in Space"
+        },
+        {
+            "type":"L",
+            "name":"楊心柔",
+            "img":"json/img/Xing-Rou.png",
+            "topic":"犬樂園",
+            "desc":"基於小狗的認知能力，發展適合於小狗遊戲的空間設計",
+            "nameEN":"Xing-Rou, Young",
+            "topicEN":"Doggy Playground",
+            "descEN":"Develop space design suitable for dog playground based on dogs' cognitive abilities."
+        },
+        {
+            "type":"R",
+            "name":"鄭永彥",
+            "img":"json/img/Yung-Yan.png",
+            "topic":"構造解剖學",
+            "desc":"利用不同出入口的人口流動場域分析發展皮層形式，再通過受力演算能夠支撐皮層的桁架結構。",
+            "nameEN":"Yung-Yan, Cheng",
+            "topicEN":"The Anatomy of Structure",
+            "descEN":"Analysis of particles flowing using different entrances and exits in urban to develop a skin surface, and then plan a structure system that can withstand the skin."
+        },
+        {
+            "type":"TXT",
+            "title":"敘事體與空間",
+            "titleEN":"Narrative Approach"
+        },
+        {
+            "type":"L",
+            "name":"吳姵萱",
+            "img":"json/img/Pei-Hsuan.png",
+            "topic":"情緒調色盤",
+            "desc":"不同情緒的人看空間都帶有不同的特色，通過第三人稱的視角，領略各種情緒所呈現的空間美學。",
+            "nameEN":"Pei-Hsuan, Wu",
+            "topicEN":"The Emotional Plaette of Space",
+            "descEN":"Different emotions perceive spaces with distinct characteristics. Through a third-person perspective, one can appreciate the spatial aesthetics presented by various emotional states."
+        },
+        {
+            "type":"R",
+            "name":"陳昭瑾",
+            "img":"json/img/Chao-Chin.png",
+            "topic":"漁市前，於是後",
+            "desc":"透過懸疑小說來敘述時間軸對於不同角色之間場景與視角的變化，利用「伏筆」去探討時間的連續性與角色之間的交集，並將其套入到漁港空間中，透過黑鮪魚的卸貨流程說明不同人物之間的時間轉換與場景的流動。",
+            "nameEN":"Chao-Chin, Chen",
+            "topicEN":"Time After Day After Day",
+            "descEN":"Design : Use suspense novels to narrate the changes in the timeline for scenes and perspectives between different characters. Use 'Foreshadowing' to explore the continuity of time and the intersection between characters, and incorporate it into the fishing port space."
+        },
+        {
+            "type":"TXT",
+            "title":"自然資訊轉譯",
+            "titleEN":"Translation from Nature code"
+        },
+        {
+            "type":"L",
+            "name":"朱品蓉",
+            "img":"json/img/Pin-Rong.png",
+            "topic":"大屯火山群的脈動",
+            "desc":"透過轉譯機制，抽離了「臺北滅城」的恐懼想像，重新詮釋人與火山的相互關係。",
+            "nameEN":"Pin-Rong, Chu",
+            "topicEN":"The Pulsation of the Tatun Volcano Group",
+            "descEN":"Through a series of translation steps, I detach the fearful landscape of Taipei's Destruction, reinterpret the mutual relation between human & volcano."
+        },
+        {
+            "type":"R",
+            "name":"張智涵",
+            "img":"json/img/Chih-Han.png",
+            "topic":"邊界自由噬",
+            "desc":"藉由研究將海浪的特性和規則，得出其擾動的特性並將其轉化為空間，藉由此空間來擾動路徑、人為與自然的邊界效應。",
+            "nameEN":"Chih-Han, Chang",
+            "topicEN":"Float with Wave",
+            "descEN":"The wave interact with other wave and the sea floor,cause them to disturbance. In this design I capture this rule and recreate the movement of waves to a space ,so it can disturbance the boundary of route, space, or even a structure that separate people form nature."
+        }
+    ]
+
+}
